@@ -8,6 +8,7 @@ public class kullaniciGirisi {
      * şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip ,
      * şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz.
      * " sorun yoksa "Şifre oluşturuldu" yazan programı yazınız. */
+    //kullanıcıgirisi
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
         String userName,password,newPassword;
